@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to FrostyKing1922!",
-        "I like to play Minecraft!"
+        "I'm a bot that prevents the server from turning off!",
+        "Pay FrostyKing1922!",
+        "FrostyKing is the best minecraft player!"
       ]
     },
     "chat-log": true,
