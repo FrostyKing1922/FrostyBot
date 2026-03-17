@@ -8,7 +8,7 @@
   "server": {
     "ip": "DreamBlocks-myOF.aternos.me",
     "port": 28207,
-    "version": "1.21.11",
+    "version": "1.21.3",
     "try-creative": true
   },
   "position": {
@@ -83,10 +83,10 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": true
+      "chat": false
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
