@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DreamBlocks-myOF.aternos.me",
-    "port": 28207,
-    "version": "1.21.3",
-    "try-creative": true
+    "ip": "AASTHA_SMP.aternos.me",
+    "port": 58473,
+    "version": "1.21.4",
+    "try-creative": false
   },
   "position": {
     "enabled": true,
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a bot that prevents the server from turning off!",
-        "Pay FrostyKing1922!",
-        "FrostyKing is the best minecraft player!"
+        "Hello!",
       ]
     },
     "chat-log": true,
