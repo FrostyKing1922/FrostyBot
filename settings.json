@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Hello!",
+        "Hello!"
       ]
     },
     "chat-log": true,
@@ -77,7 +77,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "https://discord.com/api/webhooks/1482747437377388697/t6lynSFCYzVuk3gHO1e-yMoLEKbzvuN1QHFWrBUNPKKK38itJjAAqzgb6Xp0wYmHBl-a",
+    "webhookUrl": "",
     "events": {
       "connect": true,
       "disconnect": true,
