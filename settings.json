@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AASTHA_SMP.aternos.me",
+    "ip": "SummerSMPAastha.play.hosting",
     "port": 58473,
-    "version": "1.21.4",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
