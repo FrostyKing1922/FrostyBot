@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "SummerSMPAastha.play.hosting",
-    "port": ,
+    "port": "37474",
     "version": "1.21.11",
     "try-creative": false
   },
