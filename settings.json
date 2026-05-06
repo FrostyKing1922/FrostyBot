@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "127.0.0.1",
-    "port": 35621,
+    "ip": "SummerSMPAastha.play.hosting",
+    "port": ,
     "version": "1.21.11",
     "try-creative": false
   },
